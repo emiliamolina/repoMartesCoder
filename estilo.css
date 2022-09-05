@@ -1,0 +1,15 @@
+
+nav { 
+ position: absolute;
+ right: 0px;
+ bottom: 0px;
+ width: 150px;
+ border: 1px solid black;
+ vertical-align: top;
+ }
+
+section { 
+  display: inline-block;
+  border: 1px solid blue;
+  vertical-align: top;
+ }

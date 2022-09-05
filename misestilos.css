@@ -1,0 +1,15 @@
+p 
+{
+color: solid black;
+background-color: #AA12AB; 
+font: bold 14px Times-New-Roman, sans-serif;
+ width: 350px; /* Especificamos una anchura (obligatorio) */ 
+ margin: auto; /* Podemos pedir que el bloque se centre con el auto */
+ border: 1px solid black;
+ text-align: justify; 
+ padding: 12px;
+ margin-bottom: 20px; 
+} 
+main {
+font: bold 26px Verdana, sans-serif;
+}
